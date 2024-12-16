@@ -1,0 +1,49 @@
+.card-body {
+    padding: 30px;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+
+  h2, h3 {
+    font-weight: bold;
+  }
+  
+  .text-info {
+    color: #007BFF;
+  }
+  
+  img.rounded {
+    border-radius: 8px;
+  }
+  
+  ul {
+    padding-left: 0;
+    list-style-type: none;
+  }
+  
+  .row {
+    margin-bottom: 30px;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  
